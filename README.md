@@ -179,6 +179,7 @@ Acredito que um bom software não é apenas aquele que funciona, mas aquele que 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elismario81)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elismario/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_elismario)
+[![Currículo Lattes](https://img.shields.io/badge/Currículo%20Lattes-CNPq-1B5E20?style=for-the-badge&logo=readthedocs&logoColor=white)](http://lattes.cnpq.br/0666967437725176)
 
 </div>
 
