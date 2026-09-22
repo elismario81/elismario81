@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Elismário Lourenço de Oliveira
+# Oi! Eu sou Elismário Lourenço de Oliveira
 
 ### Professor • Cientista da Computação • Desenvolvedor
 
